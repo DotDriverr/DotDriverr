@@ -1,16 +1,23 @@
-## Hi there 👋
+my name is Dot im a 16 year old developer that does C++ things 
 
-<!--
-**DotDriverr/DotDriverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+1. C++
+2. C
+3. Python
+4. html
+5. css
+6. javascript
 
-Here are some ideas to get you started:
+## Specialties
+1. Game hacking
+2. Kernel and usermode Driver Creation
+3. Automation
+4. reverse engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+contact me at xyz.devv on discord
+
+
+
+
+
+
