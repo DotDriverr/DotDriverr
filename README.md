@@ -2,11 +2,10 @@ my name is Dot im a 16 year old developer that does C++ things
 
 ## Languages
 1. C++
-2. C
 3. Python
-4. html
-5. css
-6. javascript
+4. javascript
+5. rust
+
 
 ## Specialties
 1. Game hacking
