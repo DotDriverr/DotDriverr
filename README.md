@@ -22,8 +22,7 @@ Python begineer cheat gui
 Personal cheating profolio
 RIkochet driver
 
-
-c# Specialties
+# Specialties
 1. Game hacking
 2. Kernel and usermode Driver Creation
 3. Automation
